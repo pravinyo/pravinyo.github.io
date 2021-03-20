@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.44602dcc.chunk.css",
+    "main.js": "/resume/static/js/main.496bc20d.chunk.js",
+    "main.js.map": "/resume/static/js/main.496bc20d.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.2afba150.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.2afba150.js.map",
+    "static/js/2.78775eb4.chunk.js": "/resume/static/js/2.78775eb4.chunk.js",
+    "static/js/2.78775eb4.chunk.js.map": "/resume/static/js/2.78775eb4.chunk.js.map",
+    "static/css/3.2ad04f36.chunk.css": "/resume/static/css/3.2ad04f36.chunk.css",
+    "static/js/3.6acae207.chunk.js": "/resume/static/js/3.6acae207.chunk.js",
+    "static/js/3.6acae207.chunk.js.map": "/resume/static/js/3.6acae207.chunk.js.map",
+    "static/css/4.03c720bd.chunk.css": "/resume/static/css/4.03c720bd.chunk.css",
+    "static/js/4.7b51f939.chunk.js": "/resume/static/js/4.7b51f939.chunk.js",
+    "static/js/4.7b51f939.chunk.js.map": "/resume/static/js/4.7b51f939.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.5033d8a9f0cd50aa7e8a96143676f251.js": "/resume/precache-manifest.5033d8a9f0cd50aa7e8a96143676f251.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/3.2ad04f36.chunk.css.map": "/resume/static/css/3.2ad04f36.chunk.css.map",
+    "static/css/4.03c720bd.chunk.css.map": "/resume/static/css/4.03c720bd.chunk.css.map",
+    "static/css/main.44602dcc.chunk.css.map": "/resume/static/css/main.44602dcc.chunk.css.map",
+    "static/js/2.78775eb4.chunk.js.LICENSE.txt": "/resume/static/js/2.78775eb4.chunk.js.LICENSE.txt",
+    "static/media/AWS-SolArchitect-Associate-2020.png": "/resume/static/media/AWS-SolArchitect-Associate-2020.13d526cc.png",
+    "static/media/index.css": "/resume/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Udacity_logo.png": "/resume/static/media/Udacity_logo.918d6ecc.png",
+    "static/media/audio.png": "/resume/static/media/audio.afecc2ea.png",
+    "static/media/cere_logo.png": "/resume/static/media/cere_logo.b7720232.png",
+    "static/media/contactMailDark.svg": "/resume/static/media/contactMailDark.51cf7192.svg",
+    "static/media/dash-cam.png": "/resume/static/media/dash-cam.350c467a.png",
+    "static/media/developerActivity.svg": "/resume/static/media/developerActivity.59389695.svg",
+    "static/media/google-play.svg": "/resume/static/media/google-play.71f46b49.svg",
+    "static/media/manOnTable.svg": "/resume/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/resume/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/resume/static/media/talksCardBack.39eff4a9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2afba150.js",
+    "static/js/2.78775eb4.chunk.js",
+    "static/css/main.44602dcc.chunk.css",
+    "static/js/main.496bc20d.chunk.js"
+  ]
+}
