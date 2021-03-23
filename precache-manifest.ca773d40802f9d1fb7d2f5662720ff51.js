@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbe8b45d030d2788764eb9ba45b0796a",
+    "revision": "ddb7586efd4678acdfa736c8b6c22fc2",
     "url": "/index.html"
   },
   {
-    "revision": "b498fbea92530dad2c64",
-    "url": "/static/css/3.2ad04f36.chunk.css"
+    "revision": "a570d022d32ed442a4f8",
+    "url": "/static/css/3.6a352120.chunk.css"
   },
   {
-    "revision": "3f318fc5187f2ed7afd9",
-    "url": "/static/css/4.03c720bd.chunk.css"
+    "revision": "f3113122624ab845cf65",
+    "url": "/static/css/4.6e14a8dd.chunk.css"
   },
   {
-    "revision": "9d0b42c10986eda5e126",
-    "url": "/static/css/main.279806bf.chunk.css"
+    "revision": "886da66bb2fbf89f1296",
+    "url": "/static/css/main.5b80ea7a.chunk.css"
   },
   {
     "revision": "11ff060fc602f569dc87",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.78775eb4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b498fbea92530dad2c64",
+    "revision": "a570d022d32ed442a4f8",
     "url": "/static/js/3.6acae207.chunk.js"
   },
   {
-    "revision": "3f318fc5187f2ed7afd9",
+    "revision": "f3113122624ab845cf65",
     "url": "/static/js/4.7b51f939.chunk.js"
   },
   {
-    "revision": "9d0b42c10986eda5e126",
-    "url": "/static/js/main.ddf2b7e0.chunk.js"
+    "revision": "886da66bb2fbf89f1296",
+    "url": "/static/js/main.432b5a73.chunk.js"
   },
   {
-    "revision": "fbaf986bd7291480f3a0",
-    "url": "/static/js/runtime-main.c07271d4.js"
+    "revision": "9ba09a0e2bd05b107b85",
+    "url": "/static/js/runtime-main.43701b8b.js"
   },
   {
     "revision": "13d526cc622aba257fcd00d1c339a57a",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "39eff4a91b01e00a32cb78f3797eec88",
-    "url": "/static/media/talksCardBack.39eff4a9.svg"
+    "revision": "13780cdd0144cacdef25486e2c2503f8",
+    "url": "/static/media/talksCardBack.13780cdd.svg"
   }
 ]);
