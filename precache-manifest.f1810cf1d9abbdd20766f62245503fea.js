@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b638238ecf8a80fcfe379088050ff320",
+    "revision": "71877b9ea548d97d1138984bb1019c09",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.6e14a8dd.chunk.css"
   },
   {
-    "revision": "562811be8244a8174612",
+    "revision": "2e9c6fe03d3a4324e4a8",
     "url": "/static/css/main.5b80ea7a.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.7b51f939.chunk.js"
   },
   {
-    "revision": "562811be8244a8174612",
-    "url": "/static/js/main.6f04e3cf.chunk.js"
+    "revision": "2e9c6fe03d3a4324e4a8",
+    "url": "/static/js/main.bd2e11f4.chunk.js"
   },
   {
     "revision": "9ba09a0e2bd05b107b85",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/talksCardBack.13780cdd.svg"
   },
   {
-    "revision": "5f3188079c1d3093c050329f1866f69e",
-    "url": "/static/media/thoughtworks-logo.5f318807.svg"
+    "revision": "2bc2bc7ae53e6a37aa3597dfdd5001ee",
+    "url": "/static/media/thoughtworks-logo.2bc2bc7a.png"
   }
 ]);
