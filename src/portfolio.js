@@ -199,8 +199,8 @@ const workExperiences = {
   experience: [
     {
       role: "Consultant - Application Developer",
-      company: "Thoughtworks",
-      companylogo: require("./assets/images/thoughtworks-logo.svg"),
+      company: "ThoughtWorks",
+      companylogo: require("./assets/images/thoughtworks-logo.png"),
       date: "October 2021 – Present",
       desc:
         `Working as Application Developer, job involves application migration from legacy lending platform to new advanved 
