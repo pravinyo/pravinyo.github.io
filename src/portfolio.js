@@ -12,7 +12,7 @@ const greeting = {
   username: "Pravin Tripathi",
   title: "Hi all, I'm Pravin",
   subTitle: emoji(
-    "An Experienced Software Engineer 😄 helping team with building Web backend and Mobile applications."
+    "An Experienced Software Engineer 😄 helping team with building Web backend."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1EQ6exIbzIij48dpB8_YO014UaD0tpWUE/view?usp=sharing",
@@ -24,7 +24,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/pravinyo",
   linkedin: "https://www.linkedin.com/in/pravin-r-tripathi/",
-  gmail: "tripathipravin95@gmail.com",
+  gmail: "pravinyo12@gmail.com",
   twitter: "https://twitter.com/pravin_yo",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
@@ -34,10 +34,15 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Solve problems for the clients using the below technology stack (Full-Stack Mobile Development). ",
+  subTitle: "Solve problems for the clients using the below technology stack. ",
   skills: [
     emoji(`
-      ⚡ I am working in Health & Public Sector domain for last 2 Years, 
+      ⚡ I am working in Finance Sector domain, 
+      Building backend solution for Advanced Lending Platform,
+       and Migration from legacy Platform to Advanced Platform.
+      `),
+    emoji(`
+      ⚡ I worked in Health & Public Sector domain for 2.5 Years, 
       Building backend solution for Big Data Application,
        and Migration from legacy system to Cloud native Solution.
       `),
@@ -89,10 +94,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-docker"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
       skillName: "Typescript",
       fontAwesomeClassname: "fas fa-code"
     },
@@ -105,20 +106,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-exclamation-triangle"
     },
     {
-      skillName: "App Dynamics",
-      fontAwesomeClassname: "fas fa-hand-holding-heart"
-    },
-    {
       skillName: "Kubernetes",
       fontAwesomeClassname: "fas fa-dharmachakra"
-    },
-    {
-      skillName: "Jira",
-      fontAwesomeClassname: "fab fa-jira"
-    },
-    {
-      skillName: "Confluence",
-      fontAwesomeClassname: "fab fa-confluence"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -157,15 +146,15 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Android Development", //Insert stack or technology you have experience in
-      progressPercentage: "75%" //Insert relative proficiency in percentage
+      progressPercentage: "40%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend Development",
-      progressPercentage: "70%"
+      progressPercentage: "80%"
     },
     {
       Stack: "AWS",
@@ -209,10 +198,24 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Consultant - Application Developer",
+      company: "Thoughtworks",
+      companylogo: require("./assets/images/thoughtworks-logo.svg"),
+      date: "October 2021 – Present",
+      desc:
+        `Working as Application Developer, job involves application migration from legacy lending platform to new advanved 
+        platform and adding new functionality in the advanced platform to be used by multiple teams.`,
+      descBullets: [
+        "Helping team with migration actvity and adding new functionality to the distributed application.",
+        "Did multiple sessions on tech and personal development internally.",
+        "following pair programming and TDD as a practice for development"
+      ]
+    },
+    {
       role: "Software Analyst",
       company: "Accenture",
       companylogo: require("./assets/images/accenture-logo.png"),
-      date: "February 2020 – Present",
+      date: "February 2020 – September 2021",
       desc:
         `Working as AWS Cloud Developer, job involves building new features for existing API,
         and refactoring of Legacy application to run on Cloud Services.`,
@@ -231,16 +234,6 @@ const workExperiences = {
          batch data for downstream usage. Developed Apache storm app, which tracks device pings
          in real-time for issues related to the device and configuration setup, and displays
          it in the dashboard.`
-    },
-    {
-      role: "Project - Software Engineer",
-      company: "Cere Labs Pvt. Ltd.",
-      companylogo: require("./assets/images/cere_logo.png"),
-      date: "January 2017 – February 2018",
-      desc:
-        `Developed Backend REST API; for real-time analysis of live video
-         streams on Raspberry PI; and controlling of the Raspberry pi device
-         for start, stop, and analyze interview video.`
     }
   ]
 };
@@ -363,12 +356,12 @@ const blogSection = {
   subtitle: "",
   blogs: [
     {
-      url: "",
-      title: "",
-      description: ""
+      url: "https://pravin.dev",
+      title: "Pravin on Software",
+      description: "I share my learning on this"
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -404,7 +397,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-8108787884",
-  email_address: "tripathipravin95@gmail.com"
+  email_address: "pravinyo12@gmail.com"
 };
 
 // Twitter Section
